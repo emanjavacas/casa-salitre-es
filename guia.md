@@ -35,7 +35,7 @@ Aun así, te recomiendo que eches un vistazo a las instrucciones que encontrará
 
 ### La subida en detalle
 
-<img src="./img/anotated-map.low.jpeg" class="border rounded"/>
+<img src="./img/annotated-map.low.jpeg" class="border rounded"/>
 
 1. Al llegar a la rotonda, gira a la derecha (fíjate en el cartel: "A.T. Faldas del Castillo")
 
