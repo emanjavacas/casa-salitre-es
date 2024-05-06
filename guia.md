@@ -103,6 +103,14 @@ Hay toldos tanto en la terraza de entrada como en el jardín de abajo. Aseguraos
 El toldo de abajo se puede desplazar con el palo de madera disponible. Tened cuidado de no dañar la tela.
 El jardín tiene un sistema de riego automático que está programado para funcionar por la tarde/noche. No os asusteis si ois un silbido, es sólo agua saliendo de las válvulas.
 
+### Basura
+
+Tienes varios puntos cerca de casa para echar la basura:
+
+- [Luis Vinuesa A (esquina Ladera de la Cruz)](https://maps.app.goo.gl/w3PMLXg8KtCkSZCU7): Resto
+- [Ladera de la cruz (bajando por Oriente)](https://maps.app.goo.gl/SQ8yQHJLBtFABjnT9): Resto, Envases, Cartón
+- [Plaza de la radio](https://maps.app.goo.gl/3Vdpu4ZyfCiJrVeU7): Resto, Envases, Cartón, Vidrio
+
 ## WIFI
 
 El nombre wifi es `houdini` y la contraseña es `escapingcat!`.
