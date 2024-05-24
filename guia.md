@@ -10,7 +10,7 @@ date: 22 de abril de 2024
 ¡Bienvenido a Casa Salitre!
 Esta guía pretende hacer su estancia lo más agradable posible, dándote información general sobre la ubicación, comodidades y electrodomésticos, así cómo sobre el acceso a la propieda. Asimismo, he incluido sugerencias de ocio en Salobreña y alrededores.
 
-## Access by foot
+## Acceso a pie
 
 El casco antigüo de Salobreña es como un pequeño laberinto. Hay muchas maneras de llegar a Casa Salitre (dependiendo de dónde empiezas). Aqui os detallo la subida desde la parte baja hasta el punto más cercano conocido por Google Maps (aquí teneis el [enlace](https://www.google.com/maps/dir/HOSTAL+MARY+TERE,+Carretera+de+la+Playa,+Salobre%C3%B1a/36.7415011,-3.5865977/36.7413352,-3.5865531/36.7410809,-3.5872802/36.7411705,-3.5875372/36.7410997,-3.5878396/36.7414099,-3.5882791/@36.7412274,-3.5881715,181m/data=!3m1!1e3!4m19!4m18!1m5!1m1!1s0xd718fe37fe824d9:0xeaf00c3de5ac57d5!2m2!1d-3.5862866!2d36.7415743!1m0!1m5!3m4!1m2!1d-3.5872586!2d36.7412466!3s0xd718fe488e0270f:0xef248e75b58a413!1m0!1m0!1m0!1m0!3e2?entry=ttu)). Desde el punto final de la ruta encontraréis la entrada a la casa mirando hacia la izquierda.
 
